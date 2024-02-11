@@ -1,0 +1,8 @@
+#you can see the validator details :
+—————————————————-
+
+lavad q staking validator $(lavad keys show wallet --bech val -a)
+
+
+✅Minimum Hardware Requirements 
+3CPU 4RAM 80GB
